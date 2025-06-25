@@ -43,7 +43,6 @@ The core idea is to enable users to interact with their To-Do list conversationa
 ## Technologies Used
 
 - **Node.js:** JavaScript runtime environment.
-- **Express.js (Implied for API, though CLI is shown):** Framework for building web applications (can be extended to include a UI).
 - **OpenAI API:** For natural language processing and AI agent capabilities.
 - **PostgreSQL:** Relational database management system.
 - **Drizzle ORM:** Modern TypeScript ORM for PostgreSQL.
