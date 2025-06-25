@@ -4,6 +4,10 @@ This project demonstrates a simple yet powerful To-Do application powered by an 
 
 ## Demo Video
 
+
+https://github.com/user-attachments/assets/30da4e07-7aad-4ce7-819f-8ce209ea9836
+
+
 ## Table of Contents
 
 - [About the Project](#about-the-project "null")
