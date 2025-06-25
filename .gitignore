@@ -18,6 +18,7 @@ yarn-error.log*
 # Build output directories
 dist/
 build/
+/drizzle
 
 # Coverage directory
 coverage/
