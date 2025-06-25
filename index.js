@@ -76,7 +76,9 @@ START
 const messages = [{ role: "system", content: SYSTEM_PROMPTS }];
 
 while (true) {
-  const query = readlineSync.question(">> ");
+  const query = readlineSync.question(
+    "What would you like to add to your todo list? \n"
+  );
   const q = {
     type: "user",
     user: query,
